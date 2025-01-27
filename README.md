@@ -127,7 +127,6 @@ php artisan make:controller Api/StudentController
    `Body` - 
 
 ```
-
 ```
    
    `Response` - 
@@ -180,7 +179,6 @@ php artisan make:controller Api/StudentController
    `Body` - 
 
 ```
-
 ```
    
    `Response` - 
